@@ -14,9 +14,17 @@
 
 ---
 
-## 🖥️ Ekran Görüntüsü
+## 🖥️ Ekran Görüntüleri
 
-> *(Ekran görüntüsü eklenecek)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mkula25/Kula-ptv/main/1.png" width="800" alt="Ana Ekran"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mkula25/Kula-ptv/main/2.png" width="800" alt="Kanal Listesi"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mkula25/Kula-ptv/main/3.png" width="800" alt="EPG Rehberi"/>
+</p>
 
 ---
 
@@ -138,8 +146,8 @@
 
 ### Kaynak koddan derleme
 ```bash
-git clone https://github.com/mustafakula/kula-iptv.git
-cd kula-iptv
+git clone https://github.com/mkula25/Kula-ptv.git
+cd Kula-ptv
 dotnet build -c Release
 dotnet run
 ```
@@ -230,7 +238,7 @@ Ticari kullanım ve yeniden dağıtım için izin gereklidir.
 
 **Mustafa Kula**  
 📧 [mustafakula25@gmail.com](mailto:mustafakula25@gmail.com)  
-🐙 [github.com/mustafakula](https://github.com/mustafakula)
+🐙 [github.com/mkula25](https://github.com/mkula25)
 
 ---
 
